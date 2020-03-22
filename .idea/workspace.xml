@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72d78df7-4b29-4b89-af68-780ef19a8fbd" name="Default Changelist" comment="" />
+    <list default="true" id="72d78df7-4b29-4b89-af68-780ef19a8fbd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kimchanhee" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZTwliIrig2uqqyLxW7woNfT6x9" />
   <component name="PropertiesComponent">
@@ -26,5 +45,23 @@
       <updated>1584876544044</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="자습서 틱택톡 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="자습서 틱택톡 구현" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="503" y="106" key="CommitChangelistDialog2" timestamp="1584881282073">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="503" y="106" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1584881282073" />
+    <state x="440" y="263" key="IDE.errors.dialog" timestamp="1584879602513">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="440" y="263" key="IDE.errors.dialog/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1584879602513" />
+    <state x="688" y="224" key="RollbackChangesDialog" timestamp="1584877051146">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="688" y="224" key="RollbackChangesDialog/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1584877051146" />
   </component>
 </project>
